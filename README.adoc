@@ -23,7 +23,7 @@ To build the application with Maven, you need to enable the `native` profile:
 
 [indent=0]
 ----
-	$ ./mvnw -Pnative native:compile
+	$ mvn -Pnative native:compile
 ----
 
 === Gradle
@@ -45,7 +45,7 @@ To run your tests in a native image with Maven, you need to enable the `nativeTe
 
 [indent=0]
 ----
-	$ ./mvnw -PnativeTest test
+	$ mvn -PnativeTest test
 ----
 
 === Gradle
