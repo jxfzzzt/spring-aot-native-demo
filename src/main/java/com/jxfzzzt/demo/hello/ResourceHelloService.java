@@ -1,4 +1,4 @@
-package com.example.demo.hello;
+package com.jxfzzzt.demo.hello;
 
 import java.io.IOException;
 import java.io.InputStream;

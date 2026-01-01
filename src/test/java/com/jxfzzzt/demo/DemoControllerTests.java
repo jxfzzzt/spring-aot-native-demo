@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.jxfzzzt.demo;
 
 import org.junit.jupiter.api.Test;
 

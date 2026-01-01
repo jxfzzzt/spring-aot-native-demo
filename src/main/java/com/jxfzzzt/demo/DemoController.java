@@ -1,12 +1,12 @@
-package com.example.demo;
+package com.jxfzzzt.demo;
 
 import java.lang.reflect.Method;
 import java.util.Optional;
 
-import com.example.demo.DemoController.DemoControllerRuntimeHints;
-import com.example.demo.hello.HelloService;
-import com.example.demo.hello.ResourceHelloService;
-import com.example.demo.hello.SimpleHelloService;
+import com.jxfzzzt.demo.DemoController.DemoControllerRuntimeHints;
+import com.jxfzzzt.demo.hello.HelloService;
+import com.jxfzzzt.demo.hello.ResourceHelloService;
+import com.jxfzzzt.demo.hello.SimpleHelloService;
 
 import org.springframework.aot.hint.ExecutableMode;
 import org.springframework.aot.hint.RuntimeHints;

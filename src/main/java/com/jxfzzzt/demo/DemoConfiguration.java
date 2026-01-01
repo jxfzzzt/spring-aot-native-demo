@@ -1,7 +1,7 @@
-package com.example.demo;
+package com.jxfzzzt.demo;
 
-import com.example.demo.hello.HelloService;
-import com.example.demo.hello.SimpleHelloService;
+import com.jxfzzzt.demo.hello.HelloService;
+import com.jxfzzzt.demo.hello.SimpleHelloService;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

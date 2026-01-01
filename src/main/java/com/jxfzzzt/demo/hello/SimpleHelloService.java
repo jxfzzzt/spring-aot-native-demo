@@ -1,4 +1,4 @@
-package com.example.demo.hello;
+package com.jxfzzzt.demo.hello;
 
 public class SimpleHelloService implements HelloService {
 
